@@ -1,4 +1,3 @@
 # brobro 
-mnelson:myproject mnelson$ touch mnelson.txt
-mnelson:myproject mnelson$ ls
-mnelson.txt
+mnelson:myproject mnelson$ git init
+Initialized empty Git repository in /Users/mnelson/Desktop/myproject/.git/
